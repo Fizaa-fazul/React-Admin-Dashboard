@@ -17,6 +17,9 @@ A responsive and modern Admin Dashboard UI built with React and Tailwind CSS. It
 -Tailwind CSS  
 -React Router DOM  
 -Recharts.  
+  
+**#Live Demo**  
+https://ff-react-admin-dashboard.netlify.app/  
     
 **#Future Improvements**  
 -Dark mode toggle  
